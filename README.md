@@ -1,5 +1,11 @@
 # Bentley Debrecen – IT Infrastructure & Services Project
 
+## 📈 Project Status
+
+**🚧 In Development**
+
+The project is currently under development. Details may change as the project progresses.
+
 ## 📌 Project Overview
 
 This project was developed as part of the **DT-ITS – IT Services in a Large Enterprise Environment** course.
